@@ -1,1 +1,2 @@
-Using naive bayes custom implementation of Multinomial event model to predict wether the review is positive or negative.
+Custom implementation of multinomial event model using Naive Bayes to predict weather a given review is positive or negative.
+==============
